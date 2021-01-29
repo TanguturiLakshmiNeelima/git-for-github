@@ -53,4 +53,4 @@ uinjmkio
 ## inserting urls
 [google](https://www.google.com/)
 
-![image of nature](
+![image of nature](https://github.com/TanguturiLakshmiNeelima/git-for-github/blob/main/image.jpg)
