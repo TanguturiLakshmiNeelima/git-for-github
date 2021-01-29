@@ -8,7 +8,7 @@
 
 
 
-_another bold_
+__another bold__
 
 
 *italic*
@@ -18,3 +18,11 @@ _another bold_
 _another italic format
 
 _**italic and bold**_
+
+## ordered list
+1. order1
+2. order2
+3. order3
+  1.order 3a
+  2.order 3s
+  
