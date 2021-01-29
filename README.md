@@ -16,3 +16,5 @@ _another bold_
 
 
 _another italic format
+
+_**italic and bold**_
